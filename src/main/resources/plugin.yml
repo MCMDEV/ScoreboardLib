@@ -1,0 +1,8 @@
+name: ScoreboardLib
+version: ${project.version}
+main: de.mcmdev.scoreboardlib.ScoreboardLib
+authors: [MCMDEV]
+
+commands:
+  sb:
+    description: Scoreboard Main Command  w
